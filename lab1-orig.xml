@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE coordinating_center [
+    <!ELEMENT coordinating_center (departments, clients)*>
+    <!ELEMENT departments (dep_name, dep_quantity, employees)>
+    <!ELEMENT clients (type, name)>
+    <!ELEMENT employees (name, dep_employee)>
+
+    <!ATTLIST departments id_dep CDATA #REQUIRED>
+    <!ATTLIST clients id_client CDATA #REQUIRED>
+    <!ATTLIST employees id_employee CDATA #REQUIRED>
+    
+    <!ELEMENT dep_name (#PCDATA)>
+    <!ELEMENT dep_quantity (#PCDATA)>
+    <!ELEMENT type (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT dep_employee (#PCDATA)>
+]>
+
+<coordinating_center>
+    <departments id_dep="1">
+        <dep_name>
+            Emergency
+            First Type Dep
+            Second Type Dep
+            Third Type Dep
+        </dep_name>
+        <dep_quantity>
+            4
+        </dep_quantity>
+        <employees id_employee="2334, 4232, 3384">
+            <name>
+                Inacio
+                Martinho
+                Raimundo
+            </name>
+            <dep_employee>
+                Inacio - First Type Dep
+                Martinho - Second Type Dep
+                Raimundo - Third Type Dep
+            </dep_employee>
+        </employees>
+    </departments>
+
+    <clients id_client="1902, 2354, 3548">
+        <type>
+            First Type Client
+            Second Type Client
+            Third Type Client
+        </type>
+        <name>
+            Inacio
+            Martinho
+            Raimundo
+        </name>
+    </clients>
+</coordinating_center>
