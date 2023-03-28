@@ -1,0 +1,15 @@
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\bin\Debug\net7.0\lab1-center.exe
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\bin\Debug\net7.0\lab1-center.deps.json
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\bin\Debug\net7.0\lab1-center.runtimeconfig.json
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\bin\Debug\net7.0\lab1-center.dll
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\bin\Debug\net7.0\lab1-center.pdb
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\lab1-center.csproj.AssemblyReference.cache
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\lab1-center.GeneratedMSBuildEditorConfig.editorconfig
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\lab1-center.AssemblyInfoInputs.cache
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\lab1-center.AssemblyInfo.cs
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\lab1-center.csproj.CoreCompileInputs.cache
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\lab1-center.dll
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\refint\lab1-center.dll
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\lab1-center.pdb
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\lab1-center.genruntimeconfig.cache
+D:\20-ИС\6-Семестр\УДМЯП\XML-Lab\lab1-center\obj\Debug\net7.0\ref\lab1-center.dll

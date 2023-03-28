@@ -25,9 +25,8 @@
             Second Type Dep
             Third Type Dep
         </dep_name>
-        <dep_quantity>
-            4
-        </dep_quantity>
+        
+        <dep_quantity> 4</dep_quantity>
         <employees id_employee="2334, 4232, 3384">
             <name>
                 Inacio
@@ -49,9 +48,9 @@
             Third Type Client
         </type>
         <name>
-            Inacio
-            Martinho
-            Raimundo
+            Inacio - First Type 
+            Martinho - Second Type
+            Raimundo - Third Type
         </name>
     </clients>
 </coordinating_center>
